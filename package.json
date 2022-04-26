@@ -1,0 +1,15 @@
+{
+  "name": "rtls-by-mtqq",
+  "version": "0.0.0",
+  "description": "RtlsByMtqq",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "mqtt": "^4.3.7",
+    "socket.io": "^4.4.1"
+  }
+}
